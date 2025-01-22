@@ -10,4 +10,4 @@ A desktop application built with Python and Tkinter to generate and display Pyth
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-quiz-app.git
+   git clone https://github.com/Abdullha-Aburashed/python-quiz-app.git
